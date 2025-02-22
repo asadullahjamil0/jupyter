@@ -19,4 +19,5 @@ def improve_guess(guess, x):
     else:
         return guess - 0.1
 
-print(sqrt(4, 1.8))        
+print(sqrt(4, 1.8))
+print(sqrt(-2))        
